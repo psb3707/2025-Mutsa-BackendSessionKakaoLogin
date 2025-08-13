@@ -108,6 +108,7 @@ public class SecurityConfig {
         return http.build();
     }
 
+
     /**
      * CORS 설정
      * 프론트엔드(React, Vue 등)에서 백엔드 API 호출 시 필요
